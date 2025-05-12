@@ -9,6 +9,5 @@ sensor = ADC(1)
 while True:
     # Temparatur-Sensor als Dezimalzahl lesen
     value_a = sensor.read_u16()
-    print("Dezimalzahl: ", value_a)
-    # 0,2 Sekunden warten
-    sleep(0.2)
+    print("Wert: ", value_a)
+    sleep(0.1)
