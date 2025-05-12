@@ -1,6 +1,14 @@
 {
 	"folders": [
 		{
+			"name": "6-display",
+			"path": "6-display"
+		},
+		{
+			"name": "5-webserver",
+			"path": "5-webserver"
+		},
+		{
 			"name": "4-wlan",
 			"path": "4-wlan"
 		},
@@ -22,7 +30,7 @@
 		},
 		{
 			"name": "Mpy Remote Workspace",
-			"uri": "pico:"
+			"uri": "pico:/"
 		}
 	],
 	"settings": {}
