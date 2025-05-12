@@ -17,20 +17,16 @@
 			"path": "3-settings-file"
 		},
 		{
-			"name": "1-blinking-led",
-			"path": "1-blinking-led"
-		},
-		{
 			"name": "2-adc-readout",
 			"path": "2-adc-readout"
 		},
 		{
-			"name": "prerequisites",
-			"path": "prerequisites"
+			"name": "1-blinking-led",
+			"path": "1-blinking-led"
 		},
 		{
-			"name": "Mpy Remote Workspace",
-			"uri": "pico:/"
+			"name": "prerequisites",
+			"path": "prerequisites"
 		}
 	],
 	"settings": {}
