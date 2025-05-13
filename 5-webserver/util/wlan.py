@@ -4,8 +4,8 @@ from time import sleep
 
 class WlanConnection:
 
-    WLAN_SSID = "intern@wagner.tc"
-    WLAN_PW = "1mages+Words"
+    WLAN_SSID = "dev"
+    WLAN_PW = ""
     state_listeners: list
     log_async: function
 
